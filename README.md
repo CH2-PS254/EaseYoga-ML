@@ -1,6 +1,6 @@
 <!-- Add banner here -->
 <p align="center">
-  <img src="" alt="back-to-top.png"/>
+  <img src="" alt="logo.png"/>
 </p>
 
 # **EaseYoga (Bangkit Team CH2-PS254)**
