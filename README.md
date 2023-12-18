@@ -51,13 +51,16 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 This project requires **Python** and the following Python libraries installed:
 
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org/)
-- [matplotlib](http://matplotlib.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
-- [tensorflow](https://www.tensorflow.org/install/pip)
-- [nltk](https://www.nltk.org/)
-- [Sastrawi](https://pypi.org/project/Sastrawi/)
+- [enum]((https://docs.python.org/3/library/enum.html))
+- [typing]((https://docs.python.org/3/library/typing.html))
+- [matplotlib](https://numpydoc.readthedocs.io/)
+- [os](https://python.readthedocs.io/en/v2.7.2/library/os.html)
+- [cv2](https://docs.opencv.org/4.x/)
+- [tqdm](https://tqdm.github.io/)
+- [pandas](https://pandas.pydata.org/docs/)
+- [scikit-learn](https://scikit-learn.org/)
+- [tensorflow]([https://pypi.org/project/Sastrawi/](https://www.tensorflow.org/api_docs))
+- [wget](https://ftp.gnu.org/gnu/wget/)
 
 # Team Member
 [(Back to top)](#table-of-contents)
