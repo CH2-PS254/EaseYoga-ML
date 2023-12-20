@@ -13,7 +13,7 @@ EaseYoga is blabla
 <!-- Button and Banner-->
 
 <!-- Describe your project in brief -->
-bikin tflite
+create a machine learning model with neural network architecture and TensorFlow lite as the model format, use MoveNet as a data augmentation tool to obtain landmark coordinates, and preprocess the data using the concept of reshaping input and normalizing data.
 
 # **Table of Contents**
 
