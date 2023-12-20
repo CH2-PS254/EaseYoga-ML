@@ -59,7 +59,7 @@ This project requires **Python** and the following Python libraries installed:
 - [tqdm](https://tqdm.github.io/)
 - [pandas](https://pandas.pydata.org/docs/)
 - [scikit-learn](https://scikit-learn.org/)
-- [tensorflow]((https://www.tensorflow.org/api_docs))
+- [tensorflow](https://www.tensorflow.org/api_docs)
 - [wget](https://ftp.gnu.org/gnu/wget/)
 
 # Team Member
